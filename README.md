@@ -110,7 +110,7 @@ The project demonstrates both **conceptual understanding of open source** and **
 # Open Source Software Audit — Git
 
 ## 👨‍🎓 Student Details
-- **Name:** Pratham Goyal
+- **Name:** Sarvagya Joshi
 - **Course:** Open Source Software (OSS NGMC)  
 - **Project:** Open Source Audit Capstone  
 - **Chosen Software:** Git  
